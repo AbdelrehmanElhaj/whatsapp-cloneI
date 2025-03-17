@@ -21,38 +21,9 @@ A full-stack WhatsApp clone built using **Angular 19** for the frontend and **Po
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/AbdelrehmanElhaj/whatsapp-clone.git
+git clone https://github.com/AbdelrehmanElhaj/whatsapp-cloneI.git
 cd whatsapp-clone
 ```
-
-### 2️⃣ Setup Backend  
-1. Navigate to the backend folder:  
-   ```bash
-   cd whatsapp-api
-   ```
-2. Install dependencies and start the server:  
-   ```bash
-   npm install  # For Node.js/NestJS
-   mvn spring-boot:run  # For Spring Boot
-   ```
-
-### 3️⃣ Setup Frontend  
-1. Navigate to the frontend folder:  
-   ```bash
-   cd whatsapp-frontend
-   ```
-2. Install dependencies and start the Angular app:  
-   ```bash
-   npm install
-   ng serve
-   ```
-
-### 4️⃣ Database Setup  
-1. Install PostgreSQL and create a new database:  
-   ```sql
-   CREATE DATABASE whatsapp_clone;
-   ```
-2. Run database migrations (if applicable).  
 
 ## 📸 Screenshots  
 (Include screenshots of your chat UI here)  
