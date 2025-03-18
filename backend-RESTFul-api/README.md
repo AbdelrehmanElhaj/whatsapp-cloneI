@@ -36,7 +36,7 @@ Log in with the following credentials:
 
 ### 3. Create a Realm
 - Navigate to the **Realms** tab.
-- Create a new realm (e.g., `whatsapp-clone-realm`).
+- Create a new realm (e.g., `whatsapp-clone`).
 
 ### 4. Add a Client
 - Go to **Clients** > **Create**.
