@@ -25,13 +25,6 @@ docker-compose up -d
 
 ---
 
-## Set Up Keycloak
-
-### 1. Start Keycloak
-Run Keycloak using Docker if it's not already configured in your `docker-compose.yml`:
-```bash
-docker run -d -p 8080:8080 -e KEYCLOAK_ADMIN=admin -e KEYCLOAK_ADMIN_PASSWORD=admin quay.io/keycloak/keycloak:latest start-dev
-```
 
 ### 2. Access Keycloak
 Open your browser and navigate to:
