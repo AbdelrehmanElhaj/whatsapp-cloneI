@@ -19,11 +19,8 @@ A full-stack WhatsApp clone built using **Angular 19** for the frontend and **Po
 
 ## 🚀 Getting Started  
 
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/AbdelrehmanElhaj/whatsapp-cloneI.git
-cd whatsapp-clone
-```
+### 1️⃣ To tun and test the backend api
+https://github.com/AbdelrehmanElhaj/whatsapp-cloneI/tree/main/backend-RESTFul-api
 
 ## 📸 Screenshots  
 (Include screenshots of your chat UI here)  
