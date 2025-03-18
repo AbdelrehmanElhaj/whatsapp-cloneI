@@ -58,7 +58,7 @@ Once the application is running, you can access the Swagger UI for API documenta
 ## Verify Configuration
 Ensure that:
 - Docker services (database and Keycloak) are running correctly.
-- Keycloak is properly configured with the `whatsapp-clone-realm` and `whatsapp-clone-client`.
+- Keycloak is properly configured with the `whatsapp-clone` and `whatsapp-clone-app`.
 
 ---
 
